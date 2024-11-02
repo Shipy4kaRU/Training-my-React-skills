@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/User-Add-Form/static/css/main.19258536.css",
+    "main.js": "/User-Add-Form/static/js/main.1eea4144.js",
+    "index.html": "/User-Add-Form/index.html",
+    "main.19258536.css.map": "/User-Add-Form/static/css/main.19258536.css.map",
+    "main.1eea4144.js.map": "/User-Add-Form/static/js/main.1eea4144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19258536.css",
+    "static/js/main.1eea4144.js"
+  ]
+}
